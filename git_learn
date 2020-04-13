@@ -1,0 +1,19 @@
+# git clone "link of reposotorie"
+# type null >> hello.html  -->creates an html file
+# git add "file.py" -->update a file to git
+# git commit -m "describe ur message" -->take screenshot of ur reposotori in that moment
+					 keeping track of ur previous version
+# git status -->tells what going on with repository at any given moment
+# git push -->Push all the changes u have made to  github to ur reposotory online
+# git pull -->if someone else have made some other changes on the reposotory then u can download back that changes to ur computer
+# if conflict arrise i.e.2 users put different code on same lines then , 
+			Step    1.Git pull
+				2.open th html file in vs code
+				3.remove the lines u dont want
+				4.git push
+# git log -->gives a list of all ur commits
+# git reset --hard <commit no>
+		or
+  git reset --hard origin/master -->if we clone a reposotori it will reset to the point it was cloned
+
+ 
