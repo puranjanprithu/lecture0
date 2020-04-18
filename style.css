@@ -1,0 +1,45 @@
+h1 {
+    color: blue;
+    text-align: center;
+
+}
+p{
+    text-align: left;
+    background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2F6qZ44Kf.jpg&imgrefurl=https%3A%2F%2Fwallpapercave.com%2Flord-of-the-rings-wallpaper-hd&tbnid=iF0tpU42j6BlbM&vet=12ahUKEwjGwbns8uXoAhWC2XMBHZLNCKMQMygAegUIARD5AQ..i&docid=e9XfJt04hSX97M&w=1920&h=1080&q=Lord%20of%20ring%20wallpaper&ved=2ahUKEwjGwbns8uXoAhWC2XMBHZLNCKMQMygAegUIARD5AQ);
+}
+div {
+margin: auto;
+ 
+margin-right: auto;
+background-color:teal;
+width: 100%;
+padding: 10px;
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width:50%;
+}
+th,td{
+    border: 2px solid black;
+}
+th{
+    background-color: rgb(42, 157, 165);
+    padding: 5px;
+}
+#top{
+    background-color: coral;
+    font-size: 30px;
+}
+#mid{
+    background-color: rgb(184, 46, 11);
+    font-size: 20px;
+}
+#bot{
+    background-color: greenyellow;
+    font-size: 15px;
+}
+.adj{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
